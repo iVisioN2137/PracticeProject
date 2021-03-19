@@ -1,0 +1,10 @@
+name: PracticeProject
+version: ${project.version}
+main: com.vision.practiceproject.PracticeProject
+authors: [ vision ]
+commands:
+  kit:
+    warrior:
+      description: Niezla komenda
+      usage: /<command>
+      permission: yourplugin.yourcommandpermission
